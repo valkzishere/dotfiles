@@ -12,4 +12,4 @@ clone this repo
     git clone https://github.com/valkzishere/dotfiles/
 add the .ahk files to %startup%, alongside the .vbs
 move a shortcut of komorebi to C:\ alongside the .bat file
-# for the wallpaper:
+### for the wallpaper:
